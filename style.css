@@ -1,0 +1,114 @@
+@import url(https://fonts.googleapis.com/css2?family=PT+Serif:wght@100;200;300;400;500;600;700&display=swap);
+
+body {
+  font-family: "PT Serif", serif;
+}
+@import url(https://fonts.googleapis.com/css2?family=Playfair+Display:wght@100;200;300;400;500;600;800;900&display=swap);
+
+body {
+  font-family: "Playfair Display", serif;
+}
+@import url(https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;600;800;900&display=swap);
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+* {
+}
+
+body {
+  display: flex;
+  width: 360px;
+  height: 737px;
+}
+
+.container {
+  width: 360px;
+  height: 737px;
+}
+
+.nike {
+  width: 96px;
+  height: 72px;
+  position: absolute;
+  top: 33px;
+  left: 18px;
+}
+
+.logo {
+  color: #fff;
+  font-family: PT Serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  top: 86px;
+  left: 40px;
+}
+
+.lines {
+  width: 45px;
+  height: 25px;
+  position: absolute;
+  top: 44px;
+  left: 288px;
+}
+
+.main-text {
+  color: #fff;
+  font-family: Playfair Display;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  top: 118px;
+  left: 20px;
+}
+
+.text {
+  color: #fff;
+  font-family: Playfair Display;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  top: 187px;
+  left: 28px;
+}
+
+.text-1 {
+  color: #fff;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  top: 250px;
+  left: 28px;
+  right: 1700px;
+}
+
+.sneaker {
+  width: 509.734px;
+  height: 245.181px;
+  position: absolute;
+  top: 291px;
+}
+
+.bottom {
+  border-radius: 10px;
+  background: #8e32c6;
+  width: 238px;
+  height: 57px;
+  position: absolute;
+  top: 468px;
+  left: 60px;
+}
+
+.text-bottom {
+  color: #fff;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  top: 15px;
+  left: 53px;
+}
+
+
